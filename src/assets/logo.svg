@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Ñëîé_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 425.2 425.2" style="enable-background:new 0 0 425.2 425.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#662D91;}
+	.st2{fill:url(#SVGID_2_);}
+	.st3{fill:url(#SVGID_3_);}
+	.st4{fill:url(#SVGID_4_);}
+</style>
+<g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="227.6308" y1="334.9066" x2="97.8706" y2="148.425">
+		<stop  offset="0" style="stop-color:#8557A7"/>
+		<stop  offset="1" style="stop-color:#331749"/>
+	</linearGradient>
+	<path class="st0" d="M205.3,233.9C153.4,169,95.6,140.5,95.6,140.5l-51.7-0.7c0,0,105,73.7,161.4,204.1V233.9z"/>
+	<polygon class="st1" points="282.6,93.1 328.5,140.5 381.5,140.5 298.6,81.3 212.3,81.3 126.8,81.3 43.9,140.5 95.6,140.5 
+		142.7,93.6 	"/>
+	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="254.4938" y1="316.2144" x2="124.7325" y2="129.7311">
+		<stop  offset="0" style="stop-color:#8557A7"/>
+		<stop  offset="1" style="stop-color:#331749"/>
+	</linearGradient>
+	<polygon class="st2" points="205.3,343.9 205.3,147.1 188.9,163.7 188.9,309.8 	"/>
+	
+		<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="20.1659" y1="334.9066" x2="-109.5943" y2="148.425" gradientTransform="matrix(-1 0 0 1 218 0)">
+		<stop  offset="0" style="stop-color:#8557A7"/>
+		<stop  offset="1" style="stop-color:#331749"/>
+	</linearGradient>
+	<path class="st3" d="M220.2,233.9c51.9-64.9,108.5-93.5,108.5-93.5l52.9-0.7c0,0-105,73.7-161.4,204.1V233.9z"/>
+	
+		<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="47.029" y1="316.2144" x2="-82.7324" y2="129.7311" gradientTransform="matrix(-1 0 0 1 218 0)">
+		<stop  offset="0" style="stop-color:#8557A7"/>
+		<stop  offset="1" style="stop-color:#331749"/>
+	</linearGradient>
+	<polygon class="st4" points="220.2,343.9 220.2,147.1 236.6,163.7 236.6,309.8 	"/>
+</g>
+</svg>
