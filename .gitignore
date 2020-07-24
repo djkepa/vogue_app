@@ -8,6 +8,9 @@
 # testing
 /coverage
 
+# ignore all files in any directory named firebase
+/firebase
+
 # production
 /build
 
