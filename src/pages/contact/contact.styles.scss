@@ -1,0 +1,67 @@
+.container {
+	width: 850px;
+	display: flex;
+	justify-content: space-between;
+	margin: 0 auto;
+
+	.right-side {
+		display: flex;
+		flex-direction: column;
+		width: 380px;
+		margin-right: 3.5rem;
+
+		.logo-title {
+			margin: auto;
+			color: #512e6c;
+			text-transform: uppercase;
+		}
+	}
+
+	.left-side {
+		margin: auto;
+
+		.custom-button {
+			width: 165px;
+			height: 50px;
+			letter-spacing: 0.5px;
+			background-color: white;
+			color: #512e6c;
+			border: 1px solid #512e6c;
+			cursor: pointer;
+			display: flex;
+			justify-content: center;
+			margin-bottom: 2rem;
+
+			&:hover {
+				background-color: #512e6c;
+
+				.git,
+				.in,
+				.em {
+					fill: white;
+				}
+			}
+
+			.git {
+				fill: #512e6c;
+				width: 30px;
+				height: 30px;
+				margin: auto;
+			}
+
+			.in {
+				fill: #512e6c;
+				width: 25px;
+				height: 25px;
+				margin: auto;
+			}
+
+			.em {
+				fill: #512e6c;
+				width: 30px;
+				height: 26px;
+				margin: auto;
+			}
+		}
+	}
+}
